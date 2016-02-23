@@ -4,7 +4,7 @@
 
 deadlink is a Chrome extension that detects if the current page is a 404, and gives you the option to view the page on archive.org if it has a cached version.
 
-You can install [the Chrome extension](/deadlink.crx) directly.
+You can install the extension from [the Chrome web store](https://chrome.google.com/webstore/detail/dead-link/cbhijdjkncfjjiodgafikkafnnmicnna?authuser=2), or [directly from this repository](/deadlink.crx).
 
 If you like this project I'd encourage you to [donate to archive.org](https://archive.org/donate/).
 
